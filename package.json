@@ -11,6 +11,6 @@
     },
     "devDependencies": {
         "laravel-mix": "^6.0.34",
-        "postcss": "^8.4.5"
+        "postcss": "^8.4.6"
     }
 }
